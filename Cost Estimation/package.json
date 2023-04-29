@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "cost-estimation",
+  "version": "1.0.0",
+  "description": "A simple program for estimating the cost function using the least squares and the high/low method",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cost estimation function",
+    "estimation function",
+    "least squares",
+    "cost function",
+    "high low"
+  ],
+  "author": "Centipede",
+  "license": "MIT"
+}
